@@ -2,12 +2,11 @@
   ; main.csd - a Csound structured data file
 
 <CsOptions>
-  -W -d -o tone.wav
+  -W -d -o bezborodov-fate-of-an-empire.wav
 </CsOptions>
 
 <CsVersion>    ; optional section
-  Before 4.10  ; these two statements check for
-  After 4.08   ; Csound version 4.09
+  After 4.08   ; Csound version 16.0
 </CsVersion>
 
 <CsInstruments>
